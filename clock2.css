@@ -1,0 +1,10 @@
+#clock {
+    font-size: 100px;
+    width: 900px;
+    text-align: center;
+    border-radius: 15px;
+    margin: auto;
+    color: #008000;
+    background-color: #80ff80;
+    font-family: "Exo 2"; 
+}

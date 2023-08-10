@@ -1,0 +1,72 @@
+body{ 
+    cursor: url('cursor (1).cur'), auto;
+}
+
+  
+ 
+#top-2 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   opacity: 0.35;
+}
+
+h5 {
+    font-size: 100px;
+   }
+
+#Sloth {
+border-radius: 5px; 
+border:2px solid black ;
+margin: fit-content;
+}
+
+#Slothdiv {
+    width: fit-content;
+}
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#Steve-Dia {
+    width: 300px;
+    border: 2px solid black;
+    font-size: medium;
+    background-color: lightgreen;
+}
+
+#Youtube {
+    width: 300px;
+    border: 2px solid black;
+    font-size: medium;
+    background-color: lightgreen;
+}
+
+#amn {
+    width: 300px;
+    border: 2px solid black;
+    font-size: medium;
+    background-color: lightgreen;
+}
+
+#top {
+    color: rgb(255, 85, 0);
+    text-decoration: none;
+    background-color: orange;
+    
+}
+
+#top-2 {
+    width: fit-content;
+    height: fit-content;
+}
+
+h4 {
+    color:white;
+}
